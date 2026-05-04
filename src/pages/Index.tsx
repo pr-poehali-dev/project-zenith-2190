@@ -1,7 +1,7 @@
-import SoftwareDevelopmentWebsite from "@/components/SoftwareDevelopmentWebsite"
+import CatSite from "@/components/CatSite"
 
 const Index = () => {
-  return <SoftwareDevelopmentWebsite />
+  return <CatSite />
 }
 
 export default Index
